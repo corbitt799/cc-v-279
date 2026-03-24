@@ -1,14 +1,13 @@
 BEGIN:VCARD
 VERSION:3.0
 N:Corbitt;Chris;;;
-FN:Chris Corbitt
+FN:Christopher Corbitt
 ORG:Office Of State Attorney 2nd Judicial Circuit
 TITLE:Investigator / Chief of Technical Operations
-EMAIL;TYPE=INTERNET,WORK:corbittch@leoncountyfl.gov
+EMAIL;TYPE=INTERNET,WORK:CorbittCH@leoncountyfl.gov
 TEL;TYPE=CELL,VOICE:850-544-2405
 TEL;TYPE=WORK,VOICE:850-606-6052
 ADR;TYPE=WORK:;;301 S. Monroe St. #475;Tallahassee;FL;32301;USA
-URL;TYPE=LinkedIn:https://www.linkedin.com/in/your-profile-here
 URL:https://www.sao2fl.gov
 REV:20260219T210500Z
 END:VCARD
